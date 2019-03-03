@@ -3,7 +3,7 @@
 实现了一个在线笔记本，用于在线记录某一主题学习的心得。实现了主题(Topic)的添加，条目(Entry)的添加与修改，并实现了账户注册，
 登录功能。每个账户只能登录查看自己记录的内容。
 ## 说明
-本项目已经成功部署到pythonanywhere网站上。[链接](therainstorm.pythonanywhere.com)
+本项目已经成功部署到pythonanywhere网站上。[链接](https://therainstorm.pythonanywhere.com)
 ## 部署简略过程
   1. 上传代码到github上
   2. 注册并登录[pythonanywhere](https://www.pythonanywhere.com/), 注：beginner版有限制但免费的
